@@ -2,48 +2,36 @@
   "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "KOMPtO0PWQ",
-  "payloadServer": [
-    {
-      "id": "vqzuejeiiemf1",
+  "server": {
+    "pro": [
+      {
+        "url": "https://blum-pro.vercel.app/api/",
+        "status": 1
+      }
+    ],
+    "free": [
+      {
+        "url": "https://blum-free-1.vercel.app/api/",
+        "status": 1
+      }
+    ]
+  },
+  "payloadServer": [ {
+      "id": "iwsluybtbdix12",
       "status": 1
     },
     {
-      "id": "weajonqbsyvr2",
+      "id": "xnwqkifdwzud13",
       "status": 1
     },
     {
-      "id": "oraiuhooppds3",
+      "id": "ytlbpmzsiqjv14",
       "status": 1
     },
     {
-      "id": "mwmyjxhwhvkd4",
+      "id": "phusuuarieff15",
       "status": 1
-    },
-    {
-      "id": "agujrczbhepn5",
-      "status": 1
-    },
-    {
-      "id": "iqwuumqkuczb6",
-      "status": 1
-    },
-    {
-      "id": "zseniuazehyf7",
-      "status": 1
-    },
-    {
-      "id": "bmyrrpbvnlaa8",
-      "status": 1
-    },
-    {
-      "id": "hpwsqafwqdqr9",
-      "status": 1
-    },
-    {
-      "id": "enmobnpmpxkw10",
-      "status": 1
-    }
-  ],
+    }],
   "tasks": [
     {
       "id": "38f6dd88-57bd-4b42-8712-286a06dac0a0",
@@ -116,13 +104,24 @@
     {
       "id": "dc627a62-f747-4cbb-981f-62cf82a85458",
       "answer": "BLUMTASTIC"
+    },
+    {
+      "id": "71ad89ea-f11f-4825-af9c-408fba7dfd8e",
+      "answer": "Blumforce"
+    },
+    {
+      "id": "a669a160-45fd-4935-9eda-58079e19aad5",
+      "answer": "ULTRABLUM"
+    },
+    {
+      "id": "7491c933-e49d-4a60-89cd-53d9fe690dca",
+      "answer": "Blumstorm"
     }
   ],
   "tribeSkip": [
     "b372af40-6e97-4782-b70d-4fc7ea435022",
     "642e3141-5536-4d2f-9a5f-a62a35ede62c"
   ],
-  "ver": "v0.1.6",
-  "ver": "v0.1.7",
-  "noti": "Chơi game đã chạy mượt rồi nhé, nhớ xem hướng dẫn sử dụng để biết chỉnh khung giờ chơi game"
+  "ver": "v0.2.1",
+  "noti": "Đã cập nhật phiên bản mới hỗ trợ API KEY, có thể mua hoặc nhận miễn phí API KEY tại 👉 https://zuy-web.vercel.app/blum với đợt khuyển mãi mua sớm giảm giá 30%\nNhấn enter để bỏ qua nếu bạn không có API KEY\nĐối với các bạn nhận KEY FREE vui lòng nhắn tin nhắn qua Telegram @zuy_dd trước cho mình nhé, acc mình không thể chủ động gửi tin nhắn do sẽ bị tính là spam"
 }
